@@ -24,20 +24,16 @@
 
 ### Задание 1
 
-
 1. [первый коммит](https://github.com/zitrax1/testinngtest/commit/321592421fffc9e9312762c025e4ee0c328711a3)
 
 ---
 
 ### Задание 2
 
-
 1. [gitignore file](https://github.com/zitrax1/testinngtest/commit/5e43012b6dd60f33fc4713deecbdff5993a47c15)
 
 ---
 
 ### Задание 3
-
-`Приведите ответ в свободной форме........`
 
 1. [git network](https://github.com/zitrax1/testinngtest/network)
