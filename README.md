@@ -3,7 +3,7 @@
 
 
 ## 8.1 GIT
---ЦР
+
 1. [Залиський Сергей 8.1](https://github.com/zitrax1/8-01-WH/blob/main/8-01-WH.md)
 
 
