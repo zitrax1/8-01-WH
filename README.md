@@ -15,7 +15,7 @@
 
 ## Zabbix_P1
 
-1. [Залиський Сергей 8.2](https://github.com/zitrax1/8-01-WH/blob/main/zabbix_P1.md)
+1. [Залиський Сергей Zabbix_P1](https://github.com/zitrax1/8-01-WH/blob/main/zabbix_P1.md)
 
 
 
