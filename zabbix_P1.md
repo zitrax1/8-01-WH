@@ -32,11 +32,7 @@
 5. Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
 #### Требования к результаты 
-1. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
-2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
-3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
-
-1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/zabbixhosts.jpg)
-2. ![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/logs.jpg)
-3. ![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/latest_data.jpg)
+1. ![Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу](https://github.com/zitrax1/8-01-WH/blob/main/img/zabbixhosts.jpg)
+2. ![Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/zitrax1/8-01-WH/blob/main/img/logs.jpg)
+3. ![Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.](https://github.com/zitrax1/8-01-WH/blob/main/img/latest_data.jpg)
 ---
