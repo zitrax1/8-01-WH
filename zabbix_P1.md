@@ -38,10 +38,5 @@
 
 1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/zabbixhosts.jpg)
 2. ![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/logs.jpg)
-3. ![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/latest data.jpg)
+3. ![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/latest_data.jpg)
 ---
-
-### Задание 3
-
-1. [screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/Screenshot_6.jpg)
-2. [screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/Screenshot_7.jpg)
