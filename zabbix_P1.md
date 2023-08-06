@@ -15,8 +15,7 @@
 
 #### Требования к результаты 
 1. Прикрепите в файл README.md скриншот авторизации в админке
-
-1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/zabbix.jpg)
+![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/zabbix.jpg)
 
 ---
 
