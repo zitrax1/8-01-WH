@@ -48,7 +48,7 @@
 #### Требования к результату
 1.Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/Zadanie2-3.jpg)
+![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/Zadanie2-3.jpg)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -60,5 +60,5 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
-![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/Dashboard.jpg)
+![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/dashboard.jpg)
 ---
