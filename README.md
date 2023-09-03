@@ -24,7 +24,9 @@
 1. [Залиський Сергей Zabbix_P2](https://github.com/zitrax1/8-01-WH/blob/main/zabbix_P2.md)
 
 
+## Disaster Recovery. FHRP и Keepalived
 
+1. [Залиський Сергей Disaster Recovery. FHRP и Keepalived](https://github.com/zitrax1/8-01-WH/blob/main/recovery.md)
 
 
 
