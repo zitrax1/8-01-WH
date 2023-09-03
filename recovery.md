@@ -34,9 +34,9 @@
 [Keepalived.conf] (https://github.com/zitrax1/8-01-WH/blob/main/keepalived/keepalived.conf)
 2. скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 - сервер включен
-![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/on.jpg)
+![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/ON.jpg)
 - сервер выключен
-![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/off.jpg)
+![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/OFF.jpg)
 - другой сервер
 ![screenshot-2](https://github.com/zitrax1/8-01-WH/blob/main/img/vm1.jpg)
 ---
