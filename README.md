@@ -29,4 +29,6 @@
 1. [Залиський Сергей Disaster Recovery. FHRP и Keepalived](https://github.com/zitrax1/8-01-WH/blob/main/recovery.md)
 
 
+## Кластеризация и балансировка нагрузки
 
+1. [Залиський Сергей Кластеризация и балансировка нагрузки](https://github.com/zitrax1/8-01-WH/blob/main/haproxy.md)
