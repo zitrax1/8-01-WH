@@ -11,7 +11,7 @@
 
 #### Выполнение
 1. На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy
-- [HAProxy.cfg](https://github.com/zitrax1/8-01-WH/blob/main/T1haproxy.cfg
+- [HAProxy.cfg](https://github.com/zitrax1/8-01-WH/blob/main/T1haproxy.cfg)
 - ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/haproxy/T1.jpg)
 
 
@@ -28,6 +28,6 @@
 
 #### Выполнение 
 1. На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
-- [HAProxy.cfg](https://github.com/zitrax1/8-01-WH/blob/main/T2haproxy.cfg
+- [HAProxy.cfg](https://github.com/zitrax1/8-01-WH/blob/main/T2haproxy.cfg)
 - ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/haproxy/T2.jpg)
 ---
