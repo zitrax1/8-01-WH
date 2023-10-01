@@ -37,3 +37,8 @@
 ## Резервное копирование
 
 1. [Залиський Сергей Резервное копирование](https://github.com/zitrax1/8-01-WH/blob/main/rsync.md)
+
+
+## Базы данных
+
+1. [Залиський Сергей Базы данных](https://github.com/zitrax1/8-01-WH/blob/main/databases.md)
