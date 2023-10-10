@@ -45,4 +45,4 @@
 
 ## Кеширование Redis/memcached
 
-1. [Залиський Сергей Базы данных](https://github.com/zitrax1/8-01-WH/blob/main/cache.md)
+1. [Залиський Сергей Кеширование Redis/memcached](https://github.com/zitrax1/8-01-WH/blob/main/cache.md)
