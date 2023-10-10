@@ -42,5 +42,5 @@
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
 #### Выполнение
-1.![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/redis.jpg)
+1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/redis.jpg)
 ---
