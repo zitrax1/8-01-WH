@@ -46,3 +46,7 @@
 ## Кеширование Redis/memcached
 
 1. [Залиський Сергей Кеширование Redis/memcached](https://github.com/zitrax1/8-01-WH/blob/main/cache.md)
+
+## Кеширование Очереди RabbitMQ
+
+1. [Залиський Сергей Кеширование Redis/memcached](https://github.com/zitrax1/8-01-WH/blob/main/rabbit.md)
