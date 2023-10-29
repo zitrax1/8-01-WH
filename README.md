@@ -53,4 +53,4 @@
 
 ## DATABASE
 
-1. [Залиський Сергей Кеширование Redis/memcached](https://github.com/zitrax1/8-01-WH/blob/main/database.md)
+1. [Залиський Сергей Кеширование DATABASE](https://github.com/zitrax1/8-01-WH/blob/main/database.md)
