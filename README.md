@@ -50,3 +50,7 @@
 ## Кеширование Очереди RabbitMQ
 
 1. [Залиський Сергей Кеширование Redis/memcached](https://github.com/zitrax1/8-01-WH/blob/main/rabbit.md)
+
+## DATABASE
+
+1. [Залиський Сергей Кеширование Redis/memcached](https://github.com/zitrax1/8-01-WH/blob/main/database.md)
