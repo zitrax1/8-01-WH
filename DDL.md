@@ -35,7 +35,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ### Выполнение
 
 1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/sys_temp.jpg)
-2. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/sekila.jpg)
+2. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/sakila.jpg)
 
 
 ### Задание 2
