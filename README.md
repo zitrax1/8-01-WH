@@ -61,4 +61,4 @@
 
 ## SQL. Часть 1
 
-1. [Залиський Сергей SQL. Часть 1 ](https://github.com/zitrax1/8-01-WH/blob/main/DDL.md)
+1. [Залиський Сергей SQL. Часть 1 ](https://github.com/zitrax1/8-01-WH/blob/main/sql1.md)
