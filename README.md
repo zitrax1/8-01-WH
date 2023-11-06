@@ -58,3 +58,7 @@
 ## Работа с данными (DDL/DML)
 
 1. [Залиський Сергей Работа с данными (DDL/DML)](https://github.com/zitrax1/8-01-WH/blob/main/DDL.md)
+
+## SQL. Часть 1
+
+1. [Залиський Сергей SQL. Часть 1 ](https://github.com/zitrax1/8-01-WH/blob/main/DDL.md)
