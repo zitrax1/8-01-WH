@@ -31,8 +31,8 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 ### Выполнение
 
 1. Слабые места это over (partition by c.customer_id, f.title ORDER BY c.customer_id) так как занимает лишнее время, а так же создает кучу дублей, которые потом нужно убирать на что и тратится много времени и использование таблицы film.
-2. ```sql
-explain analyze
+2. 
+```sql
 select DISTINCT concat(c.last_name, ' ', c.first_name), sum(p.amount)
 from payment p, rental r, customer c, inventory i
 where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and r.customer_id = c.customer_id and i.inventory_id = r.inventory_id
