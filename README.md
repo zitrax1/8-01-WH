@@ -66,3 +66,7 @@
 ## SQL. Часть 2
 
 1. [Залиський Сергей SQL. Часть 2 ](https://github.com/zitrax1/8-01-WH/blob/main/sql2.md)
+
+## Индексы
+
+1. [Залиський Сергей Индексы](https://github.com/zitrax1/8-01-WH/blob/main/indexes.md)
