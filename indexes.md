@@ -32,11 +32,13 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 
 1. Слабые места это over (partition by c.customer_id, f.title ORDER BY c.customer_id) так как занимает лишнее время, а так же создает кучу дублей, которые потом нужно убирать на что и тратится много времени и использование таблицы film.
 2. 
-```sql
-select DISTINCT concat(c.last_name, ' ', c.first_name), sum(p.amount)
-from payment p, rental r, customer c, inventory i
-where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and r.customer_id = c.customer_id and i.inventory_id = r.inventory_id
+```sselect concat(c.last_name, ' ', c.first_name), sum(p.amount)
+from payment p
+inner join rental r on p.payment_date = r.rental_date
+inner join customer c on r.customer_id = c.customer_id
+inner join inventory i on i.inventory_id = r.inventory_id
+where p.payment_date >= '2005-07-30' and p.payment_date < DATE_ADD('2005-07-30', INTERVAL '1' DAY)
 GROUP BY c.customer_id;
 ```
-
+3. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/indexes1.jpg)
 
