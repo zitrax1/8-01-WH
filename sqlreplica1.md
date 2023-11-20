@@ -3,12 +3,6 @@
 
 ---
 
-### Легенда
-
-Заказчик передал вам [файл в формате Excel](https://github.com/netology-code/sdb-homeworks/blob/main/resources/hw-12-1.xlsx), в котором сформирован отчёт. 
-
-На основе этого отчёта нужно выполнить следующие задания.
-
 ### Задание 1
 
 На лекции рассматривались режимы репликации master-slave, master-master, опишите их различия.
@@ -27,6 +21,6 @@
 ### Выполнение
 
 1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/sqlmaster-slave.jpg)
-1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/sql-configs.jpg
+1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/sql-configs.jpg)
 
 
