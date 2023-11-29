@@ -77,3 +77,8 @@
 1. [Залиський Сергей Репликация и масштабирование. Часть 1](https://github.com/zitrax1/8-01-WH/blob/main/sqlreplica1.md)
 
 
+## Защита хоста
+
+1. [Залиський Сергей Защита хоста](https://github.com/zitrax1/8-01-WH/blob/main/hostdef.md)
+
+
