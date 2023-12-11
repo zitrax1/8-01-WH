@@ -49,8 +49,8 @@
 
 ### Выполнение
 Суриката зафиксировала все попытки подбора пароля, Fail2Ban зафиксировал попытку подбора пароля, а так же заблокировал их
-1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/hydra_suricata.jpg
-2. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/hydra_fail2ban.jpg
+1. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/hydra_suricata.jpg)
+2. ![screenshot-1](https://github.com/zitrax1/8-01-WH/blob/main/img/hydra_fail2ban.jpg)
 
 
 
