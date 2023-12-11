@@ -81,4 +81,7 @@
 
 1. [Залиський Сергей Защита хоста](https://github.com/zitrax1/8-01-WH/blob/main/hostdef.md)
 
+## Защита сети
+
+1. [Залиський Сергей Защита сети](https://github.com/zitrax1/8-01-WH/blob/main/hostdef_2.md)
 
